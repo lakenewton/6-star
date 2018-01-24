@@ -1,0 +1,14 @@
+h1 {
+  font-family: "Bungee", sans-serif;
+  font-size: 40px;
+  color: #a0a0a0;
+  center-align:top-left;
+}
+
+header {
+  background-color: #000000;
+  background-image:url("boost.jpg");
+  padding: 0vw 50em 20vw 2em;
+  background-position: center center;
+  background-size: cover;
+}
